@@ -1,0 +1,15 @@
+COMO USAR UMA IMAGEM DE FUNDO:
+
+1. Coloque sua imagem nesta pasta (images)
+2. Renomeie sua imagem para "fundo.jpg" 
+   OU
+   Edite o arquivo style.css e altere o nome da imagem na linha que diz:
+   background-image: url('images/fundo.jpg');
+   
+   Exemplo: se sua imagem se chama "foto-pai.png", altere para:
+   background-image: url('images/foto-pai.png');
+
+FORMATOS ACEITOS: .jpg, .jpeg, .png, .gif, .webp
+
+DICA: Use imagens com boa qualidade para um resultado melhor!
+
